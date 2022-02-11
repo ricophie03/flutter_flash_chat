@@ -1,6 +1,6 @@
 # flutter_flash_chat
 
-A new Flutter application.
+Flutter chatting app using Firebase as storage.
 
 ## Getting Started
 
